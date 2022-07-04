@@ -25,7 +25,7 @@ discovered_subdomains = []
 
 # Function
 for subdomain in subdomains:
-    url = f"http://{subdomain}.{domain}"
+    url = f"https://{subdomain}.{domain}"
     try:
         requests.get(url)
     except requests.ConnectionError:
