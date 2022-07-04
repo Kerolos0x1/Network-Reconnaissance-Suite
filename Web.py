@@ -49,24 +49,24 @@ def fun1():
 # Conditions
 
     if user_input_1 == 1:
+        os.system('clear')
         os.system('python3 Email-Extractor.py')
-        exit()
 
     elif user_input_1 == 2:
+        os.system('clear')
         os.system('python3 Subdomains-Scanner.py')
-        exit()
     
     elif user_input_1 == 3:
+       os.system('clear')
        os.system('python3 FTP-Brute-Force.py')
-       exit()
     
     elif user_input_1 == 4:
+        os.system('clear')
         os.system('sudo python3 HTTP-Sniff.py')
-        exit()
     
     elif user_input_1 == 5:
+        os.system('clear')
         os.system('python3 Get-IP.py')
-        exit()
     
     else:
         print("Please Choose Correctly...!")
