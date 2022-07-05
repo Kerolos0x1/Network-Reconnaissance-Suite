@@ -1,6 +1,6 @@
 # Web-Tool
 
-This Simple Tool Is Made To Help In Web Pentesing
+Simple Tool Is Made To Help In Web Pentesing
 Made By Kerolos osama
 
 # Installation
