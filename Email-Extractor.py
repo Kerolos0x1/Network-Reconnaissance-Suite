@@ -1,6 +1,10 @@
 # Module
 import re
-from requests_html import HTMLSession
+import os
+try:
+    from requests_html import HTMLSession
+except ModuleNotFoundError:
+    os.system('pip3 install requests-html')
 import time
 
 # Index
