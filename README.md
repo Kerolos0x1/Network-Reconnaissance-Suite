@@ -10,6 +10,8 @@ $ sudo apt install git
 
 $ git clone https://github.com/Kerolos-Osama-Kamal/Web-Tool
 
+$ pip3 install requests-html
+
 $ cd Web-Tool
 
 $ python3 Web.py
