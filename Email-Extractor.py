@@ -6,6 +6,7 @@ try:
 except ModuleNotFoundError:
     os.system('pip3 install requests-html')
 import time
+from websockets import client
 
 # Index
 index = """
