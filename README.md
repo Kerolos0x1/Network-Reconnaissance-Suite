@@ -4,9 +4,13 @@ Simple Tool Using in Web Pentesting
 
 Email-Extractor --> It will Collect all Emails that Wrote in Html Page
 FTP-Brute-Force --> Make a Brute Force for password in FTP Service (But it need the username [default: anonymous])
+
 Get-IP --> Use for Getting the IP of Domain
+
 HTTP-Sniff --> Use for Making Sniffing on HTTP only
+
 Subdomains-Scanner --> Use for Collecting the Subdomains of an WebSite
+
 
 
 # Installation
