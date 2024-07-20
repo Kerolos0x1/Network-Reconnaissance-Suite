@@ -18,11 +18,11 @@ Subdomains-Scanner --> Use for Collecting the Subdomains of an WebSite
 
 $ sudo apt install git
 
-$ git clone https://github.com/Kerolos0x1/Web-Tool
+$ git clone https://github.com/Kerolos0x1/Network-Reconnaissance-Suite
 
 $ pip3 install requests-html
 
-$ cd Web-Tool
+$ cd Network-Reconnaissance-Suite
 
 $ python3 Web.py
 
